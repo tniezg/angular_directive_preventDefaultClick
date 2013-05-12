@@ -1,6 +1,4 @@
-define([
-	'jquery'
-],function($){
+define([],function(){
 	var preventDefaultClick=[function(){
 		return {
 			restrict: 'A',
